@@ -67,7 +67,7 @@ The dashboard incorporates the following visualizations:
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – for dashboard creation and data modeling
-- **Excel/CSV** – for raw data input (assumed)
+- **Excel** – for raw data input
 - **DAX (Data Analysis Expressions)** – for calculated measures and KPIs
 
 ---
@@ -80,6 +80,29 @@ The dashboard incorporates the following visualizations:
 - 📊 Easy-to-navigate and filterable dashboard for business users.
 
 ---
+
+## ▶️ How to Use
+
+Follow these steps to use or explore the dashboard:
+
+1. **Download the Project Files:**
+   - Clone the repository or download the ZIP file.
+
+2. **Open in Power BI Desktop:**
+   - Open the `Car_Sales_Dashboard.pbix` file.
+
+3. **Review the Data Source:**
+   - Make sure the file path for the data source matches your local environment.
+   - If needed, update the data source path via:
+     - *Home → Transform Data → Data Source Settings*
+
+4. **Refresh the Data:**
+   - Click **Refresh** on the Power BI toolbar to load the latest data.
+
+5. **Explore the Dashboard:**
+   - Interact with filters, slicers, and visuals to analyze different sales dimensions and KPIs.
+   - Use map and pie charts to explore geographical and categorical sales insights.
+
 
 
 
